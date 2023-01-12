@@ -1,9 +1,9 @@
-check out jyputer notebook link for details  
+# exploratory-analysis-ipl2022-tweets using pandas and seaborn, plotly and matplotlib for visualization
 
+check out jyputer notebook link for details  
 https://jovian.com/praveen-pandey77/exploratory-analysis-on-ipl-2022-tweets/v/501/files?filename=project-2-exploratory-analysis-praveen.ipynb
 
-exploratory-analysis-ipl2022-tweets using pandas and seaborn, plotly and matplotlib for visualization
-tweets by the user public on ipl 2022
+tweets by the fans of  ipl 2022
 
 This data consists of the tweets with the trending #ipl2022 hashtags made by the fans of cricket
 
